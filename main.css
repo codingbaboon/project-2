@@ -1,0 +1,27 @@
+.searchbar{
+    min-width:30px;
+    background-color: darkgray;   
+    fill: darkgray;
+}
+
+.panel{
+    background-color: cyan;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* margin-bottom:2px; */
+}
+
+.panel-header{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.panel-subheader{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
